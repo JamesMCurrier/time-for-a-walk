@@ -27,3 +27,4 @@ Then a month passed...
 - C++
 - JavaScript
 - Bash
+- Julia
