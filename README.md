@@ -25,3 +25,4 @@ Then a month passed...
 - R
 - C
 - C++
+- JavaScript
