@@ -29,3 +29,4 @@ Then a month passed...
 - Bash
 - Julia
 - Go
+- Ruby
