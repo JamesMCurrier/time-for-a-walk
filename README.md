@@ -26,3 +26,4 @@ Then a month passed...
 - C
 - C++
 - JavaScript
+- Bash
