@@ -28,3 +28,4 @@ Then a month passed...
 - JavaScript
 - Bash
 - Julia
+- Go
