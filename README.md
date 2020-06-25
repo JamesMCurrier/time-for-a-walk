@@ -38,3 +38,4 @@ Then a month passed...
 - Swift
 - Kotlin
 - Visual Basic (.NET)
+- F#
