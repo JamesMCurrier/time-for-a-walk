@@ -40,3 +40,4 @@ Then a month passed...
 - Visual Basic (.NET)
 - F#
 - Verilog
+- Scala
