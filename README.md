@@ -41,3 +41,4 @@ Then a month passed...
 - F#
 - Verilog
 - Scala
+- Rust
