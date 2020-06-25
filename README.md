@@ -26,11 +26,12 @@ Then a month passed...
 - C
 - C++
 - JavaScript
+- TypeScript
 - Bash
+- Batch
 - Julia
 - Go
 - Ruby
-- Batch
 - PHP
 - Objective-C
 - Swift
