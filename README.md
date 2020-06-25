@@ -42,3 +42,4 @@ Then a month passed...
 - Verilog
 - Scala
 - Rust
+- Dart
