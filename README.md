@@ -47,3 +47,4 @@ Then a month passed...
 - Lua
 - Ada
 - Groovy
+- COBOL
