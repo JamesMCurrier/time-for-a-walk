@@ -25,6 +25,7 @@ Then a month passed...
 - R
 - C
 - C++
+- C#
 - JavaScript
 - TypeScript
 - Bash
