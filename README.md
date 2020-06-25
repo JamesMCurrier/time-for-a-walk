@@ -39,3 +39,4 @@ Then a month passed...
 - Kotlin
 - Visual Basic (.NET)
 - F#
+- Verilog
