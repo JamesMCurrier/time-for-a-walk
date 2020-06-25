@@ -45,3 +45,4 @@ Then a month passed...
 - Dart
 - Perl
 - Lua
+- Ada
