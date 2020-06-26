@@ -48,3 +48,4 @@ Then a month passed...
 - Ada
 - Groovy
 - COBOL
+- Haskell
