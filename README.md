@@ -50,3 +50,4 @@ Then a month passed...
 - COBOL
 - Haskell
 - Crystal
+- CoffeeScript
