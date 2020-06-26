@@ -49,3 +49,4 @@ Then a month passed...
 - Groovy
 - COBOL
 - Haskell
+- Crystal
